@@ -1,0 +1,57 @@
+Software engineering is the application of a systematic, disciplined, quantifiable approach to the development of software.
+
+Software Development Cycle typically includes a requirements phase, design phase, implementation phase, test phase, and sometimes, installation and checkout phase. The phases can overlap or be performed iteratively, depending upon the software development approach used.
+
+Product quality, a degree to which the product satisfies stated and implied needs when used under specified conditions, is one of software engineering layers.
+
+
+The essence of software engineering practice is composed of understanding the problem, planning a solution, carrying out the plan, and examining result for accuracy which means root cause analysis, modeling and software design, code generation, and testing & quality assurance respectively.
+
+
+Some of the project success factors are executive sponsorship, emotional maturity, user involvement, optimization (of scope), and unexpected risks. 
+
+
+System development life cycle has a set of four fundamental phases: planning, analysis, design, and implementation.
+
+
+System request, feasibility study, and project management plan are major deliverables in a project planning phase. 
+
+
+During analysis phase, the development team must analyze the current system and its problems and way to implement a new system.
+
+
+During design phase, development team must design how the system will operate, infrastructure, the user interface, forms and reports, program specification, and database.
+
+
+System analyst is responsible for analyzing the key business aspects of the system, identifying how the system will provide business value, and designing the new business processes and policies.
+
+
+System analyst should have not only technical skills e.g., understand existing technical environment, technology of the new system, and how they can fit together, but also analytical skill e.g., be able to solve problems at project and organization level.
+
+
+Project manager is responsible for managing the team, developing and monitoring the project plan, assigning resources, serving as the primary point of contact for the project and testing the final software product.
+
+
+The key disadvantage of waterfall development model is that if the project team misses important requirements, expensive post-implementation programming may be needed.
+
+
+Developing the overall system concept in the analysis phase and breaking the requirements into a series of versions to be developed sequentially are not an important concept of a phased development. 
+
+
+The advantage of a prototyping-based methodologies is to get a useful system into hands of the users and begin to provide business value sooner than if the system were delivered after completion.
+
+
+The throwaway prototyping-based methodologies aims to create a non-working design prototype that enables user to understand the requirements.
+
+
+Agile development methodology focuses on programming-centric, frequent delivered working software, and working together between users and development team.
+
+
+Unified process is a specific methodology that maps out when and how to use the various UML techniques for object-oriented analysis and design. It contains a two-dimensional process consisting of phases and supporting workflows.
+
+
+Level of clarity of user requirement, development team technology familiarity, and a short time schedule can be used as key factors for selecting an appropriate system development methodology.
+
+
+Having a formal software development process can help decrease the following problems. The projects are late, over budget, or delivered with fewer features than planned. 
+ 
