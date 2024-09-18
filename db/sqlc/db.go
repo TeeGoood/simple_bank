@@ -15,13 +15,12 @@ type DBTX interface {
 	QueryContext(context.Context, string, ...interface{}) (*sql.Rows, error)
 	QueryRowContext(context.Context, string, ...interface{}) *sql.Row
 }
+type Queries struct {
+	db DBTX
+}
 
 func New(db DBTX) *Queries {
 	return &Queries{db: db}
-}
-
-type Queries struct {
-	db DBTX
 }
 
 func (q *Queries) WithTx(tx *sql.Tx) *Queries {
