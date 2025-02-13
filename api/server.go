@@ -2,7 +2,7 @@ package api
 
 import (
 	"github.com/go-playground/validator/v10"
-	db "github.com/teegoood/simplebank/db/sqlc"
+	"github.com/teegoood/simplebank/db/sqlc"
 
 	"github.com/gin-gonic/gin"
 	"github.com/gin-gonic/gin/binding"

@@ -17,7 +17,7 @@ import (
 	"github.com/teegoood/simplebank/util"
 )
 
-func TestGetAccount(t *testing.T) {
+func TestGetAccountAPI(t *testing.T) {
 	account := randomAccount()
 
 	testcases := []struct {

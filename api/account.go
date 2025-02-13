@@ -107,13 +107,11 @@ type updateAccountRequest struct {
 func (server *Server) updateAccount(ctx *gin.Context) {
 	var req updateAccountRequest
 	if err := ctx.ShouldBindUri(&req.Uri); err != nil {
-		fmt.Println("uri")
 		ctx.JSON(http.StatusBadRequest, errorResponse(err))
 		return
 	}
 
 	if err := ctx.ShouldBindJSON(&req.Body); err != nil {
-		fmt.Println("json")
 		ctx.JSON(http.StatusBadRequest, errorResponse(err))
 		return
 	}
